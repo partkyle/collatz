@@ -6,4 +6,8 @@
       "express": "2.5.5"
     , "jade": ">= 0.0.1"
   }
+  , "devDependencies": {
+      "mocha": ">= 0.9.0"
+    , "chai": ">= 0.1.6"
+  }
 }
